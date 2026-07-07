@@ -105,9 +105,10 @@ Full details are documented in **`6. Project Testing/`**.
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Complete Project Video
+All project demonstration video are available in the Google Drive folder below:
 
-See [`8. Project Demonstration/Demo_Video_Link.md`](<8. Project Demonstration/Demo_Video_Link.md>) for the recorded walkthrough of the application in action.
+https://drive.google.com/file/d/11JqN0BQf5R0UjD1v8_fPccHPhP9HivKN/view?usp=sharing
 
 ---
 
@@ -125,6 +126,8 @@ See [`8. Project Demonstration/Demo_Video_Link.md`](<8. Project Demonstration/De
 **Course:** Google Cloud Generative AI (SkillWallet)
 **Team ID:** SWTID-2026-9706
 **Project:** Voice-Based Concept Understanding Analyser (VBCUA)
+College: University Maharani College
+BCA
 
 **Palak Suthar** 
 GitHub: https://github.com/Palak-web021
