@@ -105,13 +105,6 @@ Full details are documented in **`6. Project Testing/`**.
 
 ---
 
-## 🎥 Complete Project Video
-All project demonstration video are available in the Google Drive folder below:
-
-https://drive.google.com/file/d/11JqN0BQf5R0UjD1v8_fPccHPhP9HivKN/view?usp=sharing
-
----
-
 ## 🌟 Future Enhancements
 
 - Persistent storage (SQLite/PostgreSQL) for evaluation history across sessions
