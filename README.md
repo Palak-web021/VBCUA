@@ -126,11 +126,11 @@ See [`8. Project Demonstration/Demo_Video_Link.md`](<8. Project Demonstration/De
 **Team ID:** SWTID-2026-9706
 **Project:** Voice-Based Concept Understanding Analyser (VBCUA)
 
-**Palak Suthar** — Lead Developer
+**Palak Suthar** 
 GitHub: https://github.com/Palak-web021
 
-**Neelam Kumari** — Contributor
-Contributed to project planning and requirement analysis documentation
+**Neelam Kumari** 
+Github: https://github.com/neelam96389-dotcom
 
 ---
 
